@@ -1,4 +1,12 @@
-## Hi there 👋
+# Hi there 👋 I'm Le Minh Quan
+## About Me
+I am a third-year Electronics and Telecommunications Engineering student at Ho Chi Minh City University of Technology (HCMUT). I am focusing on Embedded Systems and currently learning about:
+- C/C++ Programming
+- Bare-metal Programming in C
+
+## Technology
+- Embedded Systems (currently learning): C, C++
+- Hardware Design: Altium Designer
 
 <!--
 **leminhquan-embedded/leminhquan-embedded** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
