@@ -1,6 +1,6 @@
 
 ## About Me
-I am a third-year Electronics and Telecommunications Engineering student at Ho Chi Minh City University of Technology (HCMUT). I am focusing on Embedded Systems and currently learning about:
+I'm a third-year Electronics and Telecommunications Engineering student at Ho Chi Minh City University of Technology (HCMUT). I'm focusing on Embedded Systems and currently learning about:
 - C/C++ Programming
 - Bare-metal Programming in C
 
